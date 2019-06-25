@@ -1,0 +1,10 @@
+.text-right {
+    text-align: right;
+}
+.widefat thead td.text-right {
+    text-align: right;
+}
+
+.text-center {
+    text-align: center;
+}

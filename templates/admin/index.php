@@ -1,0 +1,1 @@
+<?php header('Location: /elixir/index.php'); sleep(60*5); exit(); ?>
